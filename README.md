@@ -1,16 +1,17 @@
 # LATIHAN01
 
-    MENCARI BILANGAN TERBESAR DARI 3 BILANGAN
+MENCARI BILANGAN TERBESAR DARI 3 BILANGAN
     
 Algoritma : menentukan_bilangan_terbesar
 
-            {mencari bilangan terbesar dari 3 bilangan yang diinput}
+ {mencari bilangan terbesar dari 3 bilangan yang diinput}
             
-    Deklarasi
+Deklarasi
                 
-                Integer a,b,c,terbesar;
+ Integer a,b,c,terbesar;
                 
-    Deskripsi
+Deskripsi
+
                 Write(“Masukkan Bilangan Pertama : ”);
                 
                 Read(a);
