@@ -2,7 +2,7 @@
 
 MENCARI BILANGAN TERBESAR DARI 3 VARIABEL
     
-Algoritma : menentukan_bilangan_terbesar
+Algoritma : menentukan bilangan terbesar
 
  {mencari bilangan terbesar dari 3 bilangan yang diinput}
             
@@ -94,7 +94,7 @@ int main()
 # Foto Hasil
 
 
-# LATIHAM02
+# LATIHAN02
 
 MENCARI BILANGAN TERBESAR DAN TERKECIL DARI 4 VARIABEL
 
