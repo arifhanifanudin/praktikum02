@@ -93,6 +93,8 @@ int main()
 
 # Foto Hasil
 
+![img](https://raw.githubusercontent.com/arifhanifanudin/praktikum02/master/hasil1.PNG)
+
 
 # LATIHAN02
 
